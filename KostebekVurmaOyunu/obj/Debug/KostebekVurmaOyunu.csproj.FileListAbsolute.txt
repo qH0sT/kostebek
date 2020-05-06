@@ -1,0 +1,9 @@
+c:\users\harun\documents\visual studio 2015\Projects\KostebekVurmaOyunu\KostebekVurmaOyunu\bin\Debug\KostebekVurmaOyunu.exe.config
+c:\users\harun\documents\visual studio 2015\Projects\KostebekVurmaOyunu\KostebekVurmaOyunu\bin\Debug\KostebekVurmaOyunu.exe
+c:\users\harun\documents\visual studio 2015\Projects\KostebekVurmaOyunu\KostebekVurmaOyunu\bin\Debug\KostebekVurmaOyunu.pdb
+c:\users\harun\documents\visual studio 2015\Projects\KostebekVurmaOyunu\KostebekVurmaOyunu\obj\Debug\KostebekVurmaOyunu.csprojResolveAssemblyReference.cache
+c:\users\harun\documents\visual studio 2015\Projects\KostebekVurmaOyunu\KostebekVurmaOyunu\obj\Debug\KostebekVurmaOyunu.Form1.resources
+c:\users\harun\documents\visual studio 2015\Projects\KostebekVurmaOyunu\KostebekVurmaOyunu\obj\Debug\KostebekVurmaOyunu.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2015\Projects\KostebekVurmaOyunu\KostebekVurmaOyunu\obj\Debug\KostebekVurmaOyunu.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2015\Projects\KostebekVurmaOyunu\KostebekVurmaOyunu\obj\Debug\KostebekVurmaOyunu.exe
+c:\users\harun\documents\visual studio 2015\Projects\KostebekVurmaOyunu\KostebekVurmaOyunu\obj\Debug\KostebekVurmaOyunu.pdb
